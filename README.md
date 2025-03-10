@@ -1,3 +1,3 @@
 # vit_java
 
-This is my first java prpjevt
+This is my first java project
